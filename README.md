@@ -1,8 +1,8 @@
-# Low Cost Alternative Ventilator Design
+# Low Cost Alternative Ventilator Design : https://youtu.be/8I7cw2n_aKk
 
- ## A low cost alternative design for ventilator made using off the shelf components.
+ ## A low-cost alternative design for ventilators made using off-the-shelf components.
  
-All the components used are easily available & can be bought online or from local market.
+All the components used are easily available & can be bought online or from the local market.
 
 This design uses an Ambu bag in place of a compressor which works though as of now there is no feedback mechanism to check the pressure & adjust accordingly.
 
